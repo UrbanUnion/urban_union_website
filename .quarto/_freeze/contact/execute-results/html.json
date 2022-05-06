@@ -2,9 +2,7 @@
   "hash": "dfc60d858e8d80bcba835f2f0dd5729a",
   "result": {
     "markdown": "---\ntitle: \"\"\n---\n\n::: {.cell}\n\n:::\n\n\n\n## Contact Us\n\n### General Questions?\nEmail us at urbaninstituteunion\\@gmail.com.\n\n\n### Specific concerns?\nIf you are an employee and have specific concerns about working conditions or would like to request a union rep for a meeting, please fill out the [intake form](https://forms.gle/wokTQgCY75YcBVpq6) and we will reach out. Or you can reach out directly to the Union stewards who are listed below via email or Slack. \n\n| Name                | Center |\n|:--------------------|:-------|\n| Jacqueline Rayfield | IBP    |\n| Ebonie Megibow      | METRO  |\n| Susan Nembhard      | JPC    | \n\n",
-    "supporting": [
-      "contact_files"
-    ],
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
