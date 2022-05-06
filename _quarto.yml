@@ -25,7 +25,9 @@ format:
       light: 
         - flatly
         - www/flatly_custom_urban_union.scss
-      dark: darkly
+      dark:
+        - darkly
+        - www/darkly_custom_urban_union.scss
     toc: true
     
 
