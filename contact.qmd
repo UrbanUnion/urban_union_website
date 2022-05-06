@@ -1,0 +1,30 @@
+---
+title: ""
+---
+
+```{r}
+#| warning: false
+#| echo: false
+
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+
+## Contact Us
+
+### General Questions?
+Email us at urbaninstituteunion\@gmail.com.
+
+
+### Specific concerns?
+If you are an employee and have specific concerns about working conditions or would like to request a union rep for a meeting, please fill out the [intake form](https://forms.gle/wokTQgCY75YcBVpq6) and we will reach out. Or you can reach out directly to the Union stewards who are listed below via email or Slack. 
+
+| Name                | Center |
+|:--------------------|:-------|
+| Jacqueline Rayfield | IBP    |
+| Ebonie Megibow      | METRO  |
+| Susan Nembhard      | JPC    | 
+

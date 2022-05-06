@@ -1,0 +1,53 @@
+---
+title: ""
+---
+
+```{r}
+#| warning: false
+#| echo: false
+
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+```{r}
+knitr::include_graphics("www/images/urban_union_logo.jpeg")
+```
+
+We are the Urban Institute Employees Union and represent over 250 employees at the Urban Institute. We are a proud member of the Non Profit Employees Union ([NPEU](https://npeu.org/)). ✊🏾
+
+## Newsletters
+
+You can find our past newsletters below, which we send monthly to unit members:
+
+-   [Sep 2021](https://docs.google.com/document/d/1kacC4iwr9HXOQB2MP0D6OmKhFFh1RVXmNndVE17FhgE/edit?usp=sharing)
+
+-   [Nov 2021](https://docs.google.com/document/d/1pqBx07K_dPViVbqyeeY_HLSPrT6QmITWB2MdSwltI2E/edit?usp=sharing)
+
+-   [Dec 2021](https://docs.google.com/document/d/16i1MRvnMVu5IpDeVFRAEQIVmXSHlf5JPXk3bCoBa5Ek/edit?usp=sharing)
+
+-   [Jan 2022](https://docs.google.com/document/d/1bdTn-MZtR6ARlZTZuj__-py76IFE535vzWv-FsUesS8/edit?usp=sharing)
+
+-   [Feb 2022](https://docs.google.com/document/d/1Wh2-edQWHp7gqSao6lNg3J4aOvPd0W_RZqUasa8N6ZE/edit?usp=sharing)
+
+-   [Mar 2022](https://docs.google.com/document/d/1gwih0xYk8Gbe7fb4zorW5K2w96K8wOC98dz5E1tioXY/edit?usp=sharing)
+
+-   [Apr 2022](https://docs.google.com/document/d/1qcJzLOe3r1pCXIldQ4bhgT7cbYzCwF9Gh9XVYl7ZyS0/edit?usp=sharing)
+
+<br> 
+
+## Upcoming Events
+
+Stay tuned!
+
+<br>
+
+
+## Free Swag
+
+<img src="www/images/npeu_tshirt_buttons.png" alt="tshirt picture" width="350"/>
+
+
+If you're a member of the Union, you can get a free t-shirt and button from NPEU! Visit the [NPEU website](https://nonprofitunion.myshopify.com/) and use a discount code (reach out to a member of the [BC](about.qmd#bargaining-committee) for the code) to get one t-shirt and two buttons at no cost. When you receive your swag, feel free to post a selfie on social media, tag [@NonprofitUnion](https://twitter.com/NonprofitUnion) and [@UrbanInst_Union](https://twitter.com/urbaninst_union) and use the hashtag #SolidarityForGood. 
