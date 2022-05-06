@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
 
-
 website:
   title: "Urban Insitute Employees Union"
   navbar:
