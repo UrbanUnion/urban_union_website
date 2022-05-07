@@ -30,6 +30,8 @@ format:
         - darkly
         - www/darkly_custom_urban_union.scss
     toc: true
+    image: www/images/urban_union_logo.jpeg
+    image-alt: Urban Institute Employees Union Logo
     
 
 
