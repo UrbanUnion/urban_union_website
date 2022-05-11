@@ -10,16 +10,26 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: FAQ.qmd
+        text: FAQ
       - href: about.qmd
         text: About Us
       - href: contact.qmd
         text: Contact
+
     right:
       - icon: github
         href: https://github.com/UrbanUnion
       - icon: twitter
         href: https://twitter.com/urbaninst_union
-
+  page-footer: 
+    center:
+      - icon: envelope
+        href: mailto:urbaninstituteunion@gmail.com
+      - icon: github
+        href: https://github.com/UrbanUnion
+      - icon: twitter
+        href: https://twitter.com/urbaninst_union
 format:
   html:
     theme:
