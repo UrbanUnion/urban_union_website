@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: FAQ.qmd
+      - href: faq.qmd
         text: FAQ
       - href: about.qmd
         text: About Us

@@ -8,6 +8,7 @@ A website for the Urban Institute Employees Union built with [Quarto](https://qu
 
 - `_quarto.yml`: Quarto website settings
 - `index.qmd`: qmd for homepage
+- `faq.qmd`: qmd for FAQ page
 - `about.qmd`: qmd for About Us page
 - `index.qmd`: qmd for Contact page
 - `.nojekyll`: Needed to disable some processing of HTML files that GitHub Pages does by default
