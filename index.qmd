@@ -12,9 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-```{r}
-knitr::include_graphics("www/images/urban_union_logo.jpeg")
-```
+<img src="www/images/urban_union_logo.jpeg" alt="Urban Union Logo" width="250"/>
 
 We are the Urban Institute Employees Union and represent over 250 employees at the Urban Institute. We are a proud member of the Non Profit Employees Union ([NPEU](https://npeu.org/)). ✊🏾
 
