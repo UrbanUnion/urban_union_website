@@ -46,7 +46,6 @@ Please feel free to [get in touch](contact.qmd) with any of us inddividually via
 | Ben Falk               | DEV    | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/100323/benfalk.jpg?h=54489d5f&itok=n-9GHgFB){width="86"}                                                  |
 | Katherine DePalma   | DEV    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                       |
 | Evan Spath            | IBP    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                       |
-| Jacqueline Rayfield    | IBP    | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/102534/headshot_crop.png?itok=aEe2UqSW){width="86"}                                                       |
 | Batia Katz            | LHP    | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/100440/batiakatz.jpg?h=55e773fd&itok=rCiHbmsE){width="86"}                                                       |
 | Alex Carther        | LHP    | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/100670/alexcarther.jpg?h=e6bf992d&itok=PiVzBOxV){width="86"}                                                       |
 | Jessica Perez        | LAB    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                       |
