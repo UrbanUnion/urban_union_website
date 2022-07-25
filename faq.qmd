@@ -7,7 +7,7 @@ toc-depth: 4
 
 #### What is bargaining and how does it work?
 
-Collective bargaining is the formal process employees in unions and their employers use to negotiatethe terms and conditions of work---including wages, benefits, and working conditions. The terms agreed upon during collective bargaining are solidified in a contract called the collective bargaining agreement (CBA).
+Collective bargaining is the formal process employees in unions and their employers use to negotiate the terms and conditions of work---including wages, benefits, and working conditions. The terms agreed upon during collective bargaining are solidified in a contract called the collective bargaining agreement (CBA).
 
 The bargaining phase is eight steps:
 
@@ -34,11 +34,11 @@ The [Bargaining Committee](about.qmd#bargaining-committee) (BC) is a group of 11
 
 ## BARGAINING
 
-#### What is the process of drafting a collective bargaining agreement? 
+#### What is the process of drafting a collective bargaining agreement?
 
 Employees in unions and their employers can tailor the contract to the needs of their organization and its employees. A contract can include provisions such as improved wages, better benefits, greater work-life balance, professional development opportunities, protections that ensure fair and equal treatment, and other workplace improvements. We will work closely with our parent union NPEU to draft our collective bargaining agreement. NPEU has examples of previous contracts from other organizations to serve as guides for our contracts and lawyers to ensure our contract language meets legal benchmarks.
 
-#### What are some of our Union's goals? 
+#### What are some of our Union's goals?
 
 We are collaboratively working together to identify our goals as a union. Here are some of the issues we've identified and seek to address so far:
 
@@ -54,7 +54,6 @@ These goals will continue to evolve as we survey unit members and get a better s
 #### What can we ask for?
 
 Employees in unions and their employers tailor their contract to the needs of their organization and its employees. Broadly, unions have legal status and power to effect change in a work environment. As long as there is a union, employers cannot unilaterally dictate wages, benefits, and other workplace policies. A contract can include provision categories such as:
-
 
 -   Improved salary and promotion policies
 -   Professional development opportunities
@@ -132,16 +131,14 @@ Joining together with your coworkers to organize a union is a fundamental right 
 -   File complaints against your company if they are in violation of these rights
 
 #### Does our union mean that I can't go directly to my supervisor with an issue
-? 
-No! You can continue to talk to your supervisor or VP directly about any issues at work---though it may not always get results. When you are represented, your union can help you talk with management on equal footing and with the support of your colleagues behind you. 
 
+? No! You can continue to talk to your supervisor or VP directly about any issues at work---though it may not always get results. When you are represented, your union can help you talk with management on equal footing and with the support of your colleagues behind you.
 
 #### When should I reach out to the Union versus HR?
 
 If you have an administrative HR question/concerns about current policies (ie about your payband, timing of direct deposits, backpay, etc) you should reach out to HR.
 
 If you have concerns with current policies, or thoughts for how to make them better/more equitable, you can reach out to the BC. If you have reached out to HR and haven't received a timely response or have concerns that they are not following current policies you can also reach out to us.
-
 
 ## SURVEY
 
@@ -165,9 +162,9 @@ The BC presented the big picture aggregated results of the survey in our Februar
 
 ## GETTING INVOLVED
 
-#### Is it too late to join the Bargaining Committee? 
+#### Is it too late to join the Bargaining Committee?
 
-No! Non-research staff and representatives from affinity groups are especially encouraged to join the Bargaining Committee. Please reach out to us at urbaninstituteunion\@gmail.com if you're interested in joining. We do have some turnover as folks leave Urban and will be looking for folks to come join the BC in the next few months. Generally BC members spend a few hours per week outside of work hours working on union related activities. 
+No! Non-research staff and representatives from affinity groups are especially encouraged to join the Bargaining Committee. Please reach out to us at urbaninstituteunion\@gmail.com if you're interested in joining. We do have some turnover as folks leave Urban and will be looking for folks to come join the BC in the next few months. Generally BC members spend a few hours per week outside of work hours working on union related activities.
 
 #### I don't want to join the BC, what else can I do and who can I contact?
 
