@@ -24,5 +24,7 @@ If you are an employee and have specific concerns about working conditions or wo
 | Name                | Center |
 |:--------------------|:-------|
 | Ebonie Megibow      | METRO  |
+| Irene Koo           | COMMS  |
+| Vincent Pancini     | HPC    |
 | Susan Nembhard      | JPC    | 
 
