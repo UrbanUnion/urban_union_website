@@ -38,14 +38,11 @@ Please feel free to [get in touch](contact.qmd) with any of us individually via 
 | Lauren Farrell         | JPC    | ![](www/images/lauren_picture_squared.jpg){width="86"}                                                                                                           |
 | Lily Robin             | JPC    | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/100041/lily.jpg?h=989b80e3&itok=BZq3c6Na){width="86"}                    |
 | Livia Mucciolo         | TPC    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
-| Ajjit Narayanan        | TECH   | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/99843/ajjitnarayanan.jpg?h=50f42b06&itok=z-Duyfiw){width="86"}           |
 | Vincent Pancini        | HPC    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
-| Clara Alvarez Caraveo  | HPC    | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/100476/claraalvarezcaraveo.jpg?h=b68c01c3&itok=mWVSOPnl){width="86"}     |
 | Nicholas Laughlin      | COMM   | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/100468/nicklaughlin.jpg?h=b0626f2b&itok=RxDUG52z){width="86"}            |
 | Irene Koo              | COMM   | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
 | Ben Falk               | DEV    | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/100323/benfalk.jpg?h=54489d5f&itok=n-9GHgFB){width="86"}                 |
 | Katherine DePalma      | DEV    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
 | Evan Spath             | IBP    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
 | Batia Katz             | LHP    | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/100440/batiakatz.jpg?h=55e773fd&itok=rCiHbmsE){width="86"}               |
-| Alex Carther           | LHP    | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/100670/alexcarther.jpg?h=e6bf992d&itok=PiVzBOxV){width="86"}             |
 | Jessica Perez          | LAB    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
