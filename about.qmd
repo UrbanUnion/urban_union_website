@@ -30,35 +30,22 @@ Please feel free to [get in touch](contact.qmd) with any of us individually via 
 
 <br>
 
-| Name                   | Center |                                                                                                                                                                  |
+| Name                                | Center           |                  |
 |:------------------------------------|:-----------------|------------------|
-
-| Nicholas Laughlin      | COMM   | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/100468/nicklaughlin.jpg?h=b0626f2b&itok=RxDUG52z){width="86"}            |
-
-| Irene Koo              | COMM   | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
-
+| Nicholas Laughlin                   | COMM             | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/100468/nicklaughlin.jpg?h=b0626f2b&itok=RxDUG52z){width="86"}                                       |
+| Irene Koo                           | COMM             | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                |
 | Ben Falk               | DEV    | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/100323/benfalk.jpg?h=54489d5f&itok=n-9GHgFB){width="86"}                 |
-
-| Katherine DePalma      | DEV    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
-
-| Avani Pugazhendhi      | HPC    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
-
-| Evan Spath             | IBP    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
-
-| Kevin Werner           | IBP    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
-
+| Katherine DePalma      | DEV    | ![](www/images/urban_union_logo.jpeg){width="86"} |
+| Avani Pugazhendhi      | HPC    | ![](www/images/urban_union_logo.jpeg){width="86"} |
+| Evan Spath             | IBP    | ![](www/images/urban_union_logo.jpeg){width="86"} |
+| Kevin Werner           | IBP    | ![](www/images/urban_union_logo.jpeg){width="86"} |
 | Susan Nembhard         | JPC    | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/101405/dsc_8822_3.png?h=f3bfeeb6&itok=2kxQ8GJs){width="86"}              |
-
-| Jesús Guzmán           | LAB    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
-
-| Jessica Perez          | LAB    | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
-
+| Jesús Guzmán           | LAB    | ![](www/images/urban_union_logo.jpeg){width="86"} |
+| Jessica Perez          | LAB    | ![](www/images/urban_union_logo.jpeg){width="86"} |
 | Batia Katz             | LHP    | ![](https://www.urban.org/sites/default/files/styles/square_large_252x252/public/author/100440/batiakatz.jpg?h=55e773fd&itok=rCiHbmsE){width="86"}               |
+| Donovan Harvey         | METRO  | ![](www/images/urban_union_logo.jpeg){width="86"} |
+| Sonia Torres Rodríguez | METRO  | ![](www/images/urban_union_logo.jpeg){width="86"} |
+| Fay Walker             | METRO  | ![](www/images/urban_union_logo.jpeg){width="86"} |
 
-| Donovan Harvey         | METRO  | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
-
-| Sonia Torres Rodríguez | METRO  | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
-
-| Fay Walker             | METRO  | ![](www/images/urban_union_logo.jpeg){width="86"}                                                                                                                |
 
 

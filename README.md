@@ -26,4 +26,4 @@ These contain some simple variable overrides so that the colors displayed on the
 
 ## Deploying to Github Pages:
 
-Follow the instructions from the Quarto [docs](https://quarto.org/docs/websites/publishing-websites.html) for GH pages with one important addition. The default R `.gitignore` file contains the  `docs/` directory for pkgdown websites. if this is the case, you need to either remove the `docs/` directory from your gitignore or call the quarto `output-dir` something other than `docs`. We just removed `docs/` from the `.gitignore` file. If you do not do this, your GH Pages builds will fail. 
+Follow the instructions from the Quarto [docs](https://quarto.org/docs/publishing/github-pages.html) for GH pages with one important addition. The default R `.gitignore` file contains the  `docs/` directory for pkgdown websites. if this is the case, you need to either remove the `docs/` directory from your gitignore or call the quarto `output-dir` something other than `docs`. We just removed `docs/` from the `.gitignore` file. If you do not do this, your GH Pages builds will fail. 
