@@ -16,9 +16,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 We are the Urban Institute Employees Union and represent over 250 employees at the Urban Institute. We are a proud member of the Non Profit Employees Union ([NPEU](https://npeu.org/)). ✊🏾
 
+Please complete this short ([survey](https://docs.google.com/forms/d/e/1FAIpQLSdN7tSfEI8r6dNFDn3T3OKNVKy3jofp6K4xJea0aai0LXmTTA/viewform?usp=sf_link)) to submit feedback on February 2023 Town Hall and your ideas on what to potentially include in our first contract. We will consider all ideas, however, we cannot guarantee all ideas submitted will be secured in the first contract.
+
 ## Newsletters
 
 You can find our past newsletters below, which we send monthly to unit members:
+
+-   [February 2023](https://docs.google.com/document/d/16EB-6pulA1V9sntclsp9SujhQeJQSHn-T7Sz8N2T5uU/edit?usp=sharing)
 
 -   [November 2022](https://docs.google.com/document/d/14V58WLVBl0wBFOHb7copNPA5bXE4xf60uJ_6t-G04_k/edit?usp=sharing)
 
